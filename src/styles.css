@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    background: rgb(0, 8, 29);
+    color: rgb(211, 210, 210);
+}
